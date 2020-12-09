@@ -9,4 +9,4 @@ The Python concepts covered will include:
 - dictionaries (used to store the residue masses)
 - for loops
  
- [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ThalassinosLab/BIOC003/master/index.ipynb)
+ [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ThalassinosLab/BIOC003/blob/master/index.ipynb)
